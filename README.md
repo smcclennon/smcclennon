@@ -19,11 +19,9 @@ Scripting for 8 hours to automate a one-time 8 minute task <img src="https://med
 
 </br>
 
-<img style="display: block;" src="https://github-readme-stats.vercel.app/api?username=smcclennon&theme=github_dark&hide_border=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true"/>
-<img style="display: block;" src="https://github-readme-stats.vercel.app/api/wakatime?username=smcclennon&theme=github_dark&hide_border=true&custom_title=Time%20Spent%20Coding%20This%20Week&layout=compact"/>
-<img style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smcclennon&theme=github_dark&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&card_width=445"/>
-
-</br>
+<img src="https://github-readme-stats.vercel.app/api?username=smcclennon&theme=github_dark&hide_border=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true"/>\
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=smcclennon&theme=github_dark&hide_border=true&custom_title=Time%20Spent%20Coding%20This%20Week&layout=compact"/>\
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smcclennon&theme=github_dark&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&card_width=445"/>
 
 ## Tools
 <a href="https://fedoraproject.org/"><img style="width: 40px; filter: invert(29%) sepia(98%) saturate(1552%) hue-rotate(180deg) brightness(93%) contrast(101%);" src="https://simpleicons.org/icons/fedora.svg"/></a>
