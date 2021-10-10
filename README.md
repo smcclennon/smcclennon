@@ -24,9 +24,9 @@ Scripting for 8 hours to automate a one-time 8 minute task <img src="https://med
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smcclennon&theme=github_dark&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&card_width=445"/>
 
 ## Tools
-<a href="https://fedoraproject.org/"><img style="width: 40px; filter: invert(29%) sepia(98%) saturate(1552%) hue-rotate(180deg) brightness(93%) contrast(101%);" src="https://simpleicons.org/icons/fedora.svg"/></a>
-<a href="https://www.mozilla.org/firefox/"><img style="width: 40px; filter: invert(29%) sepia(98%) saturate(1552%) hue-rotate(180deg) brightness(93%) contrast(101%);" src="https://simpleicons.org/icons/firefoxbrowser.svg"/></a>
-<a href="https://vscodium.com/"><img style="width: 40px; filter: invert(29%) sepia(98%) saturate(1552%) hue-rotate(180deg) brightness(93%) contrast(101%);" src="https://simpleicons.org/icons/visualstudiocode.svg"/></a>
-<a href="https://stackoverflow.com/"><img style="width: 40px; filter: invert(29%) sepia(98%) saturate(1552%) hue-rotate(180deg) brightness(93%) contrast(101%);" src="https://simpleicons.org/icons/stackoverflow.svg"/></a>
-<a href="https://inkscape.org/"><img style="width: 40px; filter: invert(29%) sepia(98%) saturate(1552%) hue-rotate(180deg) brightness(93%) contrast(101%);" src="https://simpleicons.org/icons/inkscape.svg"/></a>
-<a href="https://gimp.org/"><img style="width: 40px; filter: invert(29%) sepia(98%) saturate(1552%) hue-rotate(180deg) brightness(93%) contrast(101%);" src="https://simpleicons.org/icons/gimp.svg"/></a>
+<a href="https://fedoraproject.org/"><img style="width: 40px;" src="https://simpleicons.org/icons/fedora.svg"/></a>
+<a href="https://www.mozilla.org/firefox/"><img style="width: 40px;" src="https://simpleicons.org/icons/firefoxbrowser.svg"/></a>
+<a href="https://vscodium.com/"><img style="width: 40px;" src="https://simpleicons.org/icons/visualstudiocode.svg"/></a>
+<a href="https://stackoverflow.com/"><img style="width: 40px;" src="https://simpleicons.org/icons/stackoverflow.svg"/></a>
+<a href="https://inkscape.org/"><img style="width: 40px;" src="https://simpleicons.org/icons/inkscape.svg"/></a>
+<a href="https://gimp.org/"><img style="width: 40px;" src="https://simpleicons.org/icons/gimp.svg"/></a>
