@@ -5,7 +5,7 @@
 - 📚 I've completed cybersecurity courses from Cisco, Palo Alto, Qufaro, and SANS
 - 👯 I’m looking to collaborate on [SongID](https://github.com/smcclennon/songid), my Telegram music-identification bot
 - 💬 Ask me about digital privacy and security
-- ✉️ How to reach me: Email
+- ✉️ How to reach me: Email (username at pm dot me)
 - ⚡ Not-so-fun fact: Windows 10 sends data to Microsoft [5000+ times per day](https://thehackernews.com/2016/02/microsoft-windows10-privacy.html), even when idle
 
 Scripting for 8 hours to automate a one-time 8 minute task <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
