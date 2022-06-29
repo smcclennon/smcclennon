@@ -1,4 +1,4 @@
-## Hello <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"/>
+## Hello <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px"/>
 
 - 🔒 I'm a digital privacy advocate
 - 🌱 I’m currently studying A-level Computer Science and BTEC IT Level 3
