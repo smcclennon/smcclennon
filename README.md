@@ -1,10 +1,7 @@
 ## Hello <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px"/>
 
-- 🔒 I'm a digital privacy advocate
-- 🌱 I’m currently studying A-level Computer Science and BTEC IT Level 3
-- 📚 I've completed cybersecurity courses from Cisco, Palo Alto, Qufaro, and SANS
-- 👯 I’m looking to collaborate on [SongID](https://github.com/smcclennon/songid), my Telegram music-identification bot
-- 💬 Ask me about digital privacy and security
+- 🔒 I'm a cybersecurity enthusiast and digital privacy advocate
+- 📚 I've completed cybersecurity and networking courses from Cisco, Palo Alto, Qufaro, and SANS
 - ✉️ How to reach me: Email (username at pm dot me)
 - ⚡ Not-so-fun fact: Windows 10 sends data to Microsoft [5000+ times per day](https://thehackernews.com/2016/02/microsoft-windows10-privacy.html), even when idle
 
