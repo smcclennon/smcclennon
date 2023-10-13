@@ -16,6 +16,8 @@ Scripting for 8 hours to automate a one-time 8 minute task <img src="https://med
 
 </br>
 
+[![Holopin badges](https://holopin.me/dinosaurus)](https://holopin.io/@dinosaurus)
+
 <img src="https://github-readme-stats.vercel.app/api?username=smcclennon&include_all_commits=true&theme=github_dark&title_color=26a0da&icon_color=26a0da&hide_border=true&custom_title=Github%20Stats&show_icons=true"/>\
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=smcclennon&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Time%20Spent%20Coding%20This%20Week&layout=compact"/>\
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smcclennon&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&langs_count=10&card_width=445"/>
